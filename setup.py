@@ -4,13 +4,13 @@ from setuptools import find_packages
 setup(
   name='FilesNFolders',
   packages=['Core'],
-  version = '0.3',
+  version = '0.4',
   license='MIT',
   description = 'Allows the quick generation of files, folders, and their contents.',
   author = 'KayLa Thomas',
   author_email = 'kaylathomas.dev@gmail.com',
   url = 'https://github.com/kaylathomas/FilesNFolders',
-  download_url = 'https://github.com/kaylathomas/FilesNFolders/archive/refs/tags/v_0.3.tar.gz',
+  download_url = 'https://github.com/kaylathomas/FilesNFolders/archive/refs/tags/v_0.4.tar.gz',
   keywords = ['files', 'folders', 'generation', 'f-string'],
   install_requires=[],
   classifiers=[
