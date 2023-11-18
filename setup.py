@@ -5,16 +5,13 @@ setup(
   packages=[],
   version = '0.1',
   license='MIT',
-  description = 'Nullam nulla eros, ultricies sit amet, nonummy id, imperdiet feugiat, pede.',
-  author = 'Your Name',
-  author_email = 'yourname@email.com',
-  url = 'https://github.com/yourname/',
-  download_url = 'https://github.com/kaylathomas/RailsStringMethods/archive/refs/tags/v_0.2.tar.gz',
-  keywords = ['some', 'relevant', 'keywords'],
-  install_requires=[
-      'package',
-      'another package'
-  ],
+  description = 'Allows the quick generation of files, folders, and their contents.',
+  author = 'KayLa Thomas',
+  author_email = 'kaylathomas.dev@gmail.com',
+  url = 'https://github.com/kaylathomas/FilesNFolders',
+  download_url = 'https://github.com/kaylathomas/FilesNFolders/archive/refs/tags/v_0.1.tar.gz',
+  keywords = ['files', 'folders', 'generation', 'f-string'],
+  install_requires=[],
   classifiers=[
     'Development Status :: 3 - Alpha',
     'Intended Audience :: Developers',
