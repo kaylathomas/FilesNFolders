@@ -3,15 +3,15 @@ from setuptools import find_packages
 
 setup(
   name='FilesNFolders',
-  packages=['Core'],
-  version = '0.4',
+  packages=[],
+  version = '0.5',
   license='MIT',
   description = 'Allows the quick generation of files, folders, and their contents.',
   author = 'KayLa Thomas',
   author_email = 'kaylathomas.dev@gmail.com',
   url = 'https://github.com/kaylathomas/FilesNFolders',
-  download_url = 'https://github.com/kaylathomas/FilesNFolders/archive/refs/tags/v_0.4.tar.gz',
-  keywords = ['files', 'folders', 'generation', 'f-string'],
+  download_url = 'https://github.com/kaylathomas/FilesNFolders/archive/refs/tags/v_0.5.tar.gz',
+  keywords = ['files', 'folders', 'generation', 'f-string', 'generator'],
   install_requires=[],
   classifiers=[
     'Development Status :: 3 - Alpha',
