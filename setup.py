@@ -1,9 +1,8 @@
 from distutils.core import setup
-from setuptools import find_packages
 
 setup(
   name='FilesNFolders',
-  packages=[],
+  packages=["FilesNFolders"],
   version = '0.5',
   license='MIT',
   description = 'Allows the quick generation of files, folders, and their contents.',
